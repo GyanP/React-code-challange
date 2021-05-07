@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import App from './App';
+import ApolloApp from './App';
 import reportWebVitals from './reportWebVitals'
 
 ReactDOM.render(
   <React.Fragment>
-    <App />
+    <ApolloApp />
   </React.Fragment>,
   document.getElementById('root')
 )
